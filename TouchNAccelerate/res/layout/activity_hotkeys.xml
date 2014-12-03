@@ -1,0 +1,197 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="10" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:gravity="top|left"
+            android:inputType="textMultiLine"
+            android:lines="5"
+            android:maxWidth="180dip"
+            android:minWidth="10.0dip"
+            android:orientation="horizontal"
+            android:scrollHorizontally="false" >
+
+            <requestFocus android:layout_width="wrap_content" />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:orientation="vertical"
+        android:weightSum="10" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="2.5"
+            android:orientation="horizontal"
+            android:weightSum="6" >
+
+            <ImageButton
+                android:id="@+id/shutdown"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:src="@drawable/shutdown" />
+              
+               <ImageButton
+                android:id="@+id/restart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:src="@drawable/restart" />
+               
+               <ImageButton
+                android:id="@+id/logoff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:src="@drawable/logoff" />
+
+            
+            
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" 
+            android:layout_weight="2.5"
+            android:weightSum="4" >
+
+               <ImageButton
+                android:id="@+id/volumeup"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/volumeup" />
+              
+               <ImageButton
+                android:id="@+id/volumedown"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/volumedown" />
+               
+                  <ImageButton
+                android:id="@+id/volumemute"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/volumemute" />
+                  
+                      <ImageButton
+                android:id="@+id/media"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/media" />
+            
+
+            
+        </LinearLayout>
+
+       <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="2.5"
+            android:weightSum="4" >
+
+           
+
+       <ImageButton
+                android:id="@+id/browser"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/browser" />
+           <ImageButton
+                android:id="@+id/email "
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/email" />
+               <ImageButton
+                android:id="@+id/calculator"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/calculator" />
+                   <ImageButton
+                android:id="@+id/mycomputer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/mycomputer" />
+
+           
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="2.5"
+          
+            android:weightSum="7" >
+            
+          <ImageButton
+                android:id="@+id/abc"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/abc"
+                android:layout_weight="1"/>
+           
+           <ImageButton
+                android:id="@+id/x"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/x"
+                android:layout_weight="1"/>
+
+            <ImageButton
+                android:id="@+id/space"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/space"
+                android:layout_weight="3"/>
+
+            <ImageButton
+                android:id="@+id/sidearrow"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/sidearrow" />
+
+            <ImageButton
+                android:id="@+id/sidearrowright"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/sidearrw2"
+                android:layout_weight="1"/>
+            
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

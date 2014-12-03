@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="5" >
+
+        <LinearLayout
+            android:id="@+id/la2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            
+           <Button
+               android:id="@+id/ppt1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:background="@drawable/redbutton"
+               android:layout_weight=".5"
+               android:text="ESCAPE  " />
+
+             <Button
+                 android:id="@+id/ppt2"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.49"
+                 android:background="@drawable/greenbutton"
+                 android:text="FULLSCR" />
+        
+</LinearLayout>
+
+             <LinearLayout
+                 android:id="@+id/la3"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="4.9"
+                 android:orientation="horizontal" >
+
+                 <Button
+                     android:id="@+id/ppt3"
+                     android:layout_width="wrap_content"
+                     android:layout_height="match_parent"
+                     android:layout_weight="0.50"
+                     android:background="@drawable/bluebutton"
+                     android:text="PREV" />
+
+                 <Button
+                     android:id="@+id/ppt4"
+                     android:layout_width="wrap_content"
+                     android:layout_height="match_parent"
+                     android:layout_weight="0.50"
+                     android:background="@drawable/yellowbutton"
+                     android:text="NEXT" />
+             </LinearLayout>
+
+             <LinearLayout
+                 android:id="@+id/la4"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.1"
+                 android:orientation="horizontal" >
+
+                 <EditText
+                     android:id="@+id/presentationpath"
+                     android:layout_width="match_parent"
+                                android:layout_weight="0.50"
+                     android:layout_height="match_parent"
+                     android:inputType="text"
+                   android:text="c:\\\\test.ppt"
+                    />
+
+               <Button
+                   android:id="@+id/pptpath"
+                           android:layout_weight="0.50"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:background="@drawable/purplebutton"
+                   android:text="OK" />
+
+             </LinearLayout>
+
+</LinearLayout>

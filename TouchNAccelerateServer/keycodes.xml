@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <codes>
+<keyboard>
+  <code>#k0A</code>
+  <value>a</value>
+  <keyevent>1</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#k0B</code>
+  <value>b</value>
+  <keyevent>2</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0C</code>
+  <value>c</value>
+  <keyevent>3</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0D</code>
+  <value>d</value>
+  <keyevent>4</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0E</code>
+  <value>e</value>
+  <keyevent>5</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0F</code>
+  <value>f</value>
+  <keyevent>6</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0G</code>
+  <value>g</value>
+  <keyevent>7</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0H</code>
+  <value>h</value>
+  <keyevent>8</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0I</code>
+  <value>i</value>
+  <keyevent>9</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0J</code>
+  <value>j</value>
+  <keyevent>10</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0K</code>
+  <value>k</value>
+  <keyevent>11</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0L</code>
+  <value>l</value>
+  <keyevent>12</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K0M</code>
+  <value>m</value>
+  <keyevent>13</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0N</code>
+  <value>n</value>
+  <keyevent>14</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0O</code>
+  <value>o</value>
+  <keyevent>15</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0P</code>
+  <value>p</value>
+  <keyevent>16</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0Q</code>
+  <value>q</value>
+  <keyevent>17</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0R</code>
+  <value>r</value>
+  <keyevent>18</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0S</code>
+  <value>s</value>
+  <keyevent>19</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0T</code>
+  <value>t</value>
+  <keyevent>20</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0U</code>
+  <value>u</value>
+  <keyevent>21</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0V</code>
+  <value>v</value>
+  <keyevent>22</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0W</code>
+  <value>w</value>
+  <keyevent>23</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0X</code>
+  <value>x</value>
+  <keyevent>24</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0Y</code>
+  <value>y</value>
+  <keyevent>25</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K0Z</code>
+  <value>z</value>
+  <keyevent>26</keyevent>
+</keyboard>
+
+<!-- Capital letters ********************************************************* -->
+<keyboard>
+  <code>#K1A</code>
+  <value>A</value>
+  <keyevent>27</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1B</code>
+  <value>B</value>
+  <keyevent>28</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1C</code>
+  <value>C</value>
+  <keyevent>29</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1D</code>
+  <value>D</value>
+  <keyevent>30</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1E</code>
+  <value>E</value>
+  <keyevent>31</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1F</code>
+  <value>F</value>
+  <keyevent>32</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1G</code>
+  <value>G</value>
+  <keyevent>33</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1H</code>
+  <value>H</value>
+  <keyevent>34</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1I</code>
+  <value>I</value>
+  <keyevent>35</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1J</code>
+  <value>J</value>
+  <keyevent>36</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1K</code>
+  <value>K</value>
+  <keyevent>37</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1L</code>
+  <value>L</value>
+  <keyevent>38</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1M</code>
+  <value>M</value>
+  <keyevent>39</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1N</code>
+  <value>N</value>
+  <keyevent>40</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1O</code>
+  <value>O</value>
+  <keyevent>41</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1P</code>
+  <value>P</value>
+  <keyevent>42</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1Q</code>
+  <value>Q</value>
+  <keyevent>43</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1R</code>
+  <value>R</value>
+  <keyevent>44</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1S</code>
+  <value>S</value>
+  <keyevent>45</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1T</code>
+  <value>T</value>
+  <keyevent>46</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1U</code>
+  <value>U</value>
+  <keyevent>47</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1V</code>
+  <value>V</value>
+  <keyevent>48</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1W</code>
+  <value>W</value>
+  <keyevent>49</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1X</code>
+  <value>X</value>
+  <keyevent>50</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1Y</code>
+  <value>Y</value>
+  <keyevent>51</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K1Z</code>
+  <value>Z</value>
+  <keyevent>52</keyevent>
+</keyboard>
+
+<!-- NUMBERS************************************************************************** -->
+<keyboard>
+  <code>#K01</code>
+  <value>1</value>
+  <keyevent>53</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K02</code>
+  <value>2</value>
+  <keyevent>54</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K03</code>
+  <value>3</value>
+  <keyevent>55</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K04</code>
+  <value>4</value>
+  <keyevent>56</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K05</code>
+  <value>5</value>
+  <keyevent>57</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K06</code>
+  <value>6</value>
+  <keyevent>58</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K07</code>
+  <value>7</value>
+  <keyevent>59</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K08</code>
+  <value>8</value>
+  <keyevent>60</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K09</code>
+  <value>9</value>
+  <keyevent>61</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K00</code>
+  <value>0</value>
+  <keyevent>62</keyevent>
+</keyboard>
+
+<!--  SYMBOLS********************************************* -->
+<keyboard>
+  <code>#K2A</code>
+  <value>!</value>
+  <keyevent>73</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2B</code>
+  <value>@</value>
+  <keyevent>74</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2C</code>
+  <value>#</value>
+  <keyevent>75</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2D</code>
+  <value>$</value>
+  <keyevent>76</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2E</code>
+  <value>%</value>
+  <keyevent>77</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2F</code>
+  <value>^</value>
+  <keyevent>78</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2G</code>
+  <value>&amp;</value>
+  <keyevent>79</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2H</code>
+  <value>*</value>
+  <keyevent>80</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2I</code>
+  <value>(</value>
+  <keyevent>81</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2J</code>
+  <value>)</value>
+  <keyevent>82</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2K</code>
+  <value>_</value>
+  <keyevent>83</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2L</code>
+  <value>-</value>
+  <keyevent>84</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2M</code>
+  <value>+</value>
+  <keyevent>85</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2N</code>
+  <value>=</value>
+  <keyevent>86</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2O</code>
+  <value>{</value>
+  <keyevent>87</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2P</code>
+  <value>}</value>
+  <keyevent>88</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2Q</code>
+  <value>[</value>
+  <keyevent>89</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2R</code>
+  <value>]</value>
+  <keyevent>90</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2S</code>
+  <value>:</value>
+  <keyevent>91</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K2T</code>
+  <value>&quot;</value>
+  <keyevent>92</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2U</code>
+  <value>;</value>
+  <keyevent>93</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2V</code>
+  <value>&apos;</value>
+  <keyevent>94</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2W</code>
+  <value>,</value>
+  <keyevent>95</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2X</code>
+  <value>.</value>
+  <keyevent>96</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2Y</code>
+  <value>/</value>
+  <keyevent>97</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K2Z</code>
+  <value>?</value>
+  <keyevent>98</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K20</code>
+  <value>&lt;</value>
+  <keyevent>99</keyevent>
+</keyboard>
+
+<keyboard>
+  <code>#K21</code>
+  <value>&gt;</value>
+  <keyevent>100</keyevent>
+</keyboard>
+<!--  function keys************************************ -->
+
+<keyboard>
+  <code>#K30</code>
+  <value>ESC</value>
+  <keyevent>101</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K31</code>
+  <value>F1</value>
+  <keyevent>102</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K32</code>
+  <value>F2</value>
+  <keyevent>103</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K33</code>
+  <value>F3</value>
+  <keyevent>104</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K34</code>
+  <value>F4</value>
+  <keyevent>105</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K35</code>
+  <value>F5</value>
+  <keyevent>106</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K36</code>
+  <value>F6</value>
+  <keyevent>107</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K37</code>
+  <value>F7</value>
+  <keyevent>108</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K38</code>
+  <value>F8</value>
+  <keyevent>109</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K39</code>
+  <value>F9</value>
+  <keyevent>110</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3A</code>
+  <value>F10</value>
+  <keyevent>111</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3B</code>
+  <value>F11</value>
+  <keyevent>112</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3C</code>
+  <value>F12</value>
+  <keyevent>113</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3D</code>
+  <value>CTRL</value>
+  <keyevent>114</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3E</code>
+  <value>SHIFT</value>
+  <keyevent>115</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3F</code>
+  <value>DELETE</value>
+  <keyevent>116</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3G</code>
+  <value>MT2</value>
+  <keyevent>117</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3H</code>
+  <value>MT3</value>
+  <keyevent>118</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3I</code>
+  <value>CAPSKEY</value>
+  <keyevent>119</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3J</code>
+  <value>NUMKEY</value>
+  <keyevent>120</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3K</code>
+  <value>SCROLLOCK</value>
+  <keyevent>121</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3L</code>
+  <value>TAB</value>
+  <keyevent>122</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3M</code>
+  <value>PRINTSCRN</value>
+  <keyevent>123</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3N</code>
+  <value>PAUSE</value>
+  <keyevent>124</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3O</code>
+  <value>CTRLALTDELETE</value>
+  <keyevent>125</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3P</code>
+  <value>HOME</value>
+  <keyevent>126</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3Q</code>
+  <value>PAGEUP</value>
+  <keyevent>127</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3R</code>
+  <value>PAGEDOWN</value>
+  <keyevent>128</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3S</code>
+  <value>INSERT</value>
+  <keyevent>129</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K3T</code>
+  <value>END</value>
+  <keyevent>130</keyevent>
+</keyboard>
+
+<!-- eXTRAS********************************* -->
+
+<keyboard>
+  <code>#K40</code>
+  <value>SPACE</value>
+  <keyevent>131</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K41</code>
+  <value>ENTER</value>
+  <keyevent>132</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K42</code>
+  <value>BACKSPACE</value>
+  <keyevent>133</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K43</code>
+  <value>ALTTAB</value>
+  <keyevent>134</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K44</code>
+  <value>UPARROW</value>
+  <keyevent>135</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K45</code>
+  <value>LEFTARROW</value>
+  <keyevent>136</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K46</code>
+  <value>DOWNARROW</value>
+  <keyevent>137</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K47</code>
+  <value>RIGHTARROW</value>
+  <keyevent>138</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K48</code>
+  <value>SHUTDOWN</value>
+  <keyevent>139</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K49</code>
+  <value>RESTART</value>
+  <keyevent>140</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4A</code>
+  <value>LOGOFF</value>
+  <keyevent>141</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4B</code>
+  <value>VOLUMEUP</value>
+  <keyevent>142</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4C</code>
+  <value>VOLUMEDOWN</value>
+  <keyevent>143</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4D</code>
+  <value>VOLUMEMUTE</value>
+  <keyevent>144</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4E</code>
+  <value>MEDIAPLAYER</value>
+  <keyevent>145</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4F</code>
+  <value>BROWSER</value>
+  <keyevent>146</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4G</code>
+  <value>EMAIL</value>
+  <keyevent>147</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4H</code>
+  <value>CALCULATOR</value>
+  <keyevent>148</keyevent>
+</keyboard>
+
+
+<keyboard>
+  <code>#K4I</code>
+  <value>MYCOMPUTER</value>
+  <keyevent>149</keyevent>
+</keyboard>
+
+
+
+</codes>

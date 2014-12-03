@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/Jigar/Downloads/study/BEproj/FinalProj/Final TNA/TouchNAccelerateServer/tnaserver/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jigar/Downloads/study/BEproj/FinalProj/Final TNA/TouchNAccelerateServer/tnaserver/swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jigar/Downloads/study/BEproj/FinalProj/Final TNA/TouchNAccelerateServer/tnaserver/thumbnailator-0.4.3-all.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".MouseGUI" 
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/tview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_weight="10" 
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="80" 
+      >
+       <LinearLayout
+        android:id="@+id/mParent"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+                   android:background="#FFFEEE"
+        android:layout_weight="0.5" 
+     
+      />
+        <LinearLayout
+        android:id="@+id/mScroll"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3.5" 
+             android:background="#FFEFFF"
+     />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+		android:layout_weight="10"
+	android:weightSum="100"
+		 >
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Left" 
+            android:layout_weight="49"
+              android:id="@+id/mouseleft"
+              android:background="@drawable/redbutton"
+              
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Middle"  
+            android:layout_weight="2"
+              android:id="@+id/mousemiddle"
+              android:background="@drawable/yellowbutton"
+              android:visibility="invisible"
+            
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Right" 
+            android:layout_weight="49" 
+              android:id="@+id/mouseright"
+              android:background="@drawable/greenbutton"
+            />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+  
+
+      
+    android:weightSum="9.7"
+    tools:context=".Login" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.70"
+        android:src="@drawable/tnabanner" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="IP" />
+
+    <EditText
+        android:id="@+id/ip"
+         android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:inputType="phone" 
+		android:hint="Enter Server IP"
+		android:text=""
+        
+        >
+
+    </EditText>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+         android:layout_weight="1"
+        android:text="Port" />
+
+    <EditText
+        android:id="@+id/port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:layout_weight="1"
+        android:layout_marginTop="14dp"
+        android:ems="10"
+        android:text="4444" 
+             android:hint="Enter Port :Default 4444"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:layout_weight="1"
+        android:gravity="center"
+        android:text="Password" />
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+         android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:hint="Enter Password"
+        android:inputType="textCapWords"
+        android:password="true">"
+
+    </EditText>
+    
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:layout_weight="3"
+        android:background="@drawable/redbutton"
+        android:text="Login" />
+
+</LinearLayout>

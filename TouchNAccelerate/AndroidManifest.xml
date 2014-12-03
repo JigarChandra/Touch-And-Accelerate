@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ad.touchnAccelerate"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.ad.touchnAccelerate.MouseGUI"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.KeyboardGUI"
+            android:label="@string/title_activity_keyboard_gui"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.KeyboardGUIBig"
+            android:label="@string/title_activity_keyboard_gui"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name=".KeyboardGUIBig" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.TNAMainActivity"
+            android:label="TNA" >
+            <intent-filter>
+                <action android:name=".TNAMainActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.Screenshot"
+            android:label="@string/title_activity_screenshot" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.ScreenshotViewer"
+            android:label="@string/title_activity_screenshot_viewer" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.SplashScreen"
+            android:label="TNA" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.MainTabs"
+            android:label="@string/title_activity_main_tabs" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.PageAdapter"
+            android:label="@string/title_activity_page_adapter" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.PresentationGUI"
+            android:label="@string/title_activity_presentation_gui"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.AcceleroGUI"
+            android:label="Accelerometer"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.ad.touchnAccelerate.AcceleroGUI2"
+            android:label="@string/title_activity_accelero_gui" >
+        </activity>
+        <activity
+            android:name=".DownloadTask"
+            android:label="@string/title_activity_login"
+        >
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/title_activity_login" 
+               android:noHistory="true" >
+        </activity>
+    </application>
+
+</manifest>

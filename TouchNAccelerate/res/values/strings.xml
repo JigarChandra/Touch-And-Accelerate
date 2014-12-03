@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MouseSocket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_keyboard_gui">KeyboardGUI</string>
+    <string name="title_activity_screenshot">Screenshot</string>
+    <string name="title_activity_screenshot_viewer">ScreenshotViewer</string>
+    <string name="body1">one</string>
+    <string name="body2">two</string>
+    <string name="body3">three</string>
+    <string name="body4">one</string>
+    <string name="body5">two</string>
+    <string name="body6">three</string>
+    <string name="label1">MouseMode</string>
+    <string name="label2">KeyboardMode</string>
+    <string name="label3">PPTMode</string>
+    <string name="label4">Acceleromode</string>
+    <string name="label5">TwitterUpdates</string>
+    <string name="label6">ScreenCast</string>
+    <string name="title_activity_main_tabs">TNA</string>
+    <string name="title_activity_page_adapter">PageAdapter</string>
+    <string name="title_activity_presentation_gui">PresentationGUI</string>
+    <string name="presentation_PREV">#p02</string>
+    <string name="presentation_NEXT">#p03</string>
+    <string name="presentation_ESC">#p00</string>
+    <string name="presentation_FULLSCR">#p01</string>
+    <string name="accelero_CENTER">#a00</string>
+    <string name="accelero_UP">#a01</string>
+    <string name="accelero_LEFT">#a02</string>
+    <string name="accelero_RIGHT">#a03</string>
+    <string name="accelero_DOWN">#a04</string>
+    <string name="accelero_X">#a05</string>
+    <string name="accelero_Y">#a06</string>
+    <string name="accelero_A">#a07</string>
+    <string name="accelero_B">#a08</string>
+    <string name="title_activity_accelero_gui">Gaming</string>
+    <string name="title_activity_login">Login</string>
+    
+    
+        <string name="title_section3">Presentation Mode</string>
+    <string name="title_section2">Keyboard Mode</string>
+    <string name="title_section1">Mouse Mode</string>
+    
+  
+    <string name="title_section5">Screen Shot</string>
+    <string name="title_section4">Accelero Mode</string>
+    <string-array name="Description">
+        <item>This mode provides facilities for right click, left click as well as dragging. Means it provides all functions which an actual mouse provides. Even Gestures are supported.</item>
+        <item>This provides all keys in QWERTY format as people are more used to it. Additionally it will provide hot keys such as Media Player, Internet, Mail, Shutdown, Search, Calculator and many more</item>
+        <item>This mode helps for presentation purpose by which speaker can himself control the presentation through his android phone.The buttons are designed considering the frequencies of buttons pressed.</item>
+ <item>This mode is basically designed for gaming purpose. It helps to play games using this mode by using the inbuilt accelerometer of the device</item>
+  <item>This mode returns the screenshot from the server</item>          
+        
+    </string-array>
+    
+    
+    
+    <!-- Keyboard Codes -->
+       <string name="smallq">#k0Q</string>
+    
+    
+
+</resources>
